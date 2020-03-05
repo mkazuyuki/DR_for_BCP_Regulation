@@ -1,9 +1,7 @@
 # IBM Resiliency Orchestration and EXPRESSCLUSTER
 
-EC provides DR (disaster recovery) solution on its failover and remote replication function.
-But it does not provides DR *Drill and Report* function.
-Due to it, EC cannot be proposed to bidding deal from industries regulated to do the DR Drill and Report.
+EC provides the DR (disaster recovery) solution by its distributed replication and failover feature. However, it does not provide DR *Drill and Report* function.
 
-The idea for the combination of EC and IBM Resiliency Orchestration (RO here after) is to make EC possible to be proposed to such a deal.
+Due to this, EC cannot be proposed for the industries requiring *DR Drill and Report* to comply the regulation by the authority. But it becomes possible by combining *Drill and Report* feature of IBM Resiliency Orchestration.
 
-As of now (Mar 2020), at least, India and Saudi Arabia are the countries having such a legulation by authority.
+At least, India and Saudi Arabia are the countries having a regulation for *DR Drill and Report*.
