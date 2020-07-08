@@ -1,10 +1,10 @@
 # DR for BCP regulation
 
-Financial and insurance industries in India and Saudi Arabia need DR **Drill** and **Report** to comply with BCP regulation.
+Financial and insurance industries in India and Saudi Arabia need DR **Drill-and-Report** solution to comply with BCP regulation by the authority.
 
 EC (EXPRESSCLUSTER) DR solution does not have **Drill** and **Report** functionality but has **Replication** and **Failover** capabilities.
 
-By combining the function in **IBM Resiliency Orchestration** (RO), EC is expected to go to the customers who were impossible to go in the past.
+By combining the function in RO (**IBM Resiliency Orchestration**), EC is expected to go to the customers who were impossible to go in the past.
 
 For EC, the value of RO are the automation of *DR Drill work flow* and of *Report creation for the drill*
 
